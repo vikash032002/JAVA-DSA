@@ -1,3 +1,4 @@
+package Basic;
 import java.util.Scanner;
 public class threeIntegerMax {
     public static void main(String[] args) {
